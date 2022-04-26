@@ -1,0 +1,79 @@
+{
+	"id": "",
+	"name": "",
+	"venues": [
+		{
+			"id": "",
+			"name": "",
+			"address": {
+				"city": "",
+				"state": "",
+				"address1": "",
+				"address2": "",
+				"postalCode": "",
+				"lat": "",
+				"lon": ""
+			},
+			"parentVenue": "",
+			"category": "",
+			"venueType": "",
+			"color": "",
+			"events": [
+				{
+					"id": "",
+					"name": "",
+					"expoFpName": "",
+					"dateFrom": "",
+					"dateTo": "",
+					"image": "",
+					"description": "",
+					"url": {
+						"text": "",
+						"link": ""
+					},
+					"speakers": [
+						{
+							"id": "",
+							"date": "",
+							"timeFrom": "",
+							"timeTo": ""
+						}
+					]
+				}
+			]
+		}
+	],
+	"venuesTypes": [
+		{
+			"id": "",
+			"name": "",
+			"color": ""
+		}
+	],
+	"speakers": [
+		{
+			"id": "",
+			"name": "",
+			"description": "",
+			"company": "",
+			"image": "",
+			"url": {
+				"text": "",
+				"link": ""
+			}
+		}
+	],
+	"poi": [
+		{
+			"name": "",
+			"address": ""
+		}
+	],
+	"areas": [
+		{
+			"name": "",
+			"color": "",
+			"points": []
+		}
+	]
+}

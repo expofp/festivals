@@ -4,6 +4,7 @@
 	"venues": [
 		{
 			"id": "",
+			"externalId": "",
 			"name": "",
 			"address": {
 				"city": "",
@@ -21,24 +22,23 @@
 			"events": [
 				{
 					"id": "",
+					"externalId": "",
 					"name": "",
 					"expoFpName": "",
-					"dateFrom": "",
-					"dateTo": "",
 					"image": "",
 					"description": "",
-					"url": {
+					"link": {
 						"text": "",
-						"link": ""
+						"url": ""
 					},
-					"speakers": [
+					"dates": [
 						{
-							"id": "",
 							"date": "",
 							"timeFrom": "",
 							"timeTo": ""
 						}
-					]
+					],
+					"speakers": []
 				}
 			]
 		}
@@ -53,27 +53,28 @@
 	"speakers": [
 		{
 			"id": "",
+			"externalId": "",
 			"name": "",
 			"description": "",
 			"company": "",
+			"position": "",
 			"image": "",
-			"url": {
+			"link": {
 				"text": "",
-				"link": ""
+				"url": ""
 			}
-		}
-	],
-	"poi": [
-		{
-			"name": "",
-			"address": ""
 		}
 	],
 	"areas": [
 		{
 			"name": "",
 			"color": "",
-			"points": []
+			"points": [
+				{
+					"lat": "",
+					"lon": ""
+				}
+			]
 		}
 	]
 }

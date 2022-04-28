@@ -1,76 +1,74 @@
 {
-	"id": "",
-	"name": "",
-	"venues": [
-		{
-			"id": "",
-			"externalId": "",
-			"name": "",
+	"id": "1",
+	"name": "SXSW",
+	"venues": [{
+			"id": "1",
+			"externalId": "10",
+			"name": "Austin convention center",
 			"address": {
-				"city": "",
-				"state": "",
-				"address1": "",
+				"city": "Austin",
+				"state": "TX",
+				"address1": "500 E. Cesar Chavez St. Austin",
 				"address2": "",
-				"postalCode": "",
-				"lat": "",
-				"lon": ""
+				"postalCode": "78701",
+				"pnone": "(512) 404-4000",
+				"lat": 30.263488536540304,
+				"lon": -97.73953174197456
 			},
-			"parentVenue": "",
+			"parentVenue": null,
 			"category": "",
-			"venueType": "",
-			"color": "",
-			"events": [
-				{
-					"id": "",
-					"externalId": "",
-					"name": "",
-					"expoFpName": "",
-					"image": "",
-					"description": "",
+			"venueType": "111",
+			"color": "#FF56D1",
+			"events": [{
+					"id": "1",
+					"externalId": "100",
+					"name": "SXSW Creative Industries Expo 2022",
+					"expoFpName": "sxsw-creative-22",
+					"image": "https://efp-data.s3.amazonaws.com/expos/sxsw-creative-22/data/sxsw-creative-22.png?v=1651138426502",
+					"description": "The Creative Industries Expo highlights the integrations and overlaps between SXSW’s converging industries, hosting a diverse range of forward-thinking exhibitors ranging from promising startups to established industry leaders.",
 					"link": {
-						"text": "",
-						"url": ""
+						"text": "Creative Industries Expo",
+						"url": "https://www.sxsw.com/exhibitions/creative-industries-expo/"
 					},
-					"dates": [
-						{
-							"date": "",
-							"timeFrom": "",
-							"timeTo": ""
+					"dates": [{
+							"date": "March 13",
+							"timeFrom": "10:00am",
+							"timeTo": "5:00pm"
+						}, {
+							"date": "March 14",
+							"timeFrom": "10:00am",
+							"timeTo": "5:00pm"
 						}
 					],
-					"speakers": []
+					"speakers": ["13"]
 				}
 			]
 		}
 	],
-	"venuesTypes": [
-		{
-			"id": "",
-			"name": "",
-			"color": ""
+	"venuesTypes": [{
+			"id": "111",
+			"name": "Exhibition",
+			"color": "#ff5f42"
 		}
 	],
-	"speakers": [
-		{
-			"id": "",
-			"externalId": "",
-			"name": "",
-			"description": "",
-			"company": "",
-			"position": "",
-			"image": "",
+	"speakers": [{
+			"id": "13",
+			"externalId": "133",
+			"name": "Elon Musk",
+			"description": "No descruption",
+			"company": "Tesla, Inc.",
+			"position": "CEO and product architect of Tesla, Inc.",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/220px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
 			"link": {
-				"text": "",
-				"url": ""
+				"text": "Instagramm",
+				"url": "https://www.instagram.com/elonmusk/"
 			}
 		}
 	],
-	"areas": [
-		{
-			"name": "",
-			"color": "",
-			"points": [
-				{
+	"areas": [{
+			"name": "Main area",
+			"color": "#348892",
+			"points": [{
 					"lat": "",
 					"lon": ""
 				}

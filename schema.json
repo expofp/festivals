@@ -55,12 +55,12 @@
 			"id": "13",
 			"externalId": "133",
 			"name": "Elon Musk",
-			"description": "No descruption",
+			"description": "No description",
 			"company": "Tesla, Inc.",
 			"position": "CEO and product architect of Tesla, Inc.",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/220px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
 			"link": {
-				"text": "Instagramm",
+				"text": "Instagram",
 				"url": "https://www.instagram.com/elonmusk/"
 			}
 		}
@@ -69,8 +69,8 @@
 			"name": "Main area",
 			"color": "#348892",
 			"points": [{
-					"lat": "",
-					"lon": ""
+					"lat": 30.263488536540304,
+					"lon": -97.73953174197456
 				}
 			]
 		}

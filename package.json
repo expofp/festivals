@@ -1,0 +1,11 @@
+{
+    "name": "root",
+    "private": true,
+    "workspaces": [
+        "packages/components"
+    ],
+    "scripts": {
+        "sb": "yarn packages/components run sb",
+        "build-sb": "yarn packages/components run build-sb"
+    }
+}

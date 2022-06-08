@@ -1,0 +1,10 @@
+{
+    "name": "@festivals/components",
+    "version": "0.1.0",
+    "private": true,
+    "main": "src/index.tsx",
+    "scripts": {
+        "sb": "start-storybook -p 6007",
+        "build-sb": "build-storybook"
+    }
+}
